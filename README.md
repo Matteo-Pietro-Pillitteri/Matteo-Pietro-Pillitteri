@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width:100%;height:0;padding-bottom:139%;position:relative;"><iframe src="https://giphy.com/embed/l0HlMmCTZsADKuIWQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/zombie-late-night-trolling-l0HlMmCTZsADKuIWQ">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif" width="100"/>
+</div>
