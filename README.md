@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/lukway-dev/Logos/blob/master/sql.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/HuberM1998/UFPel/blob/master/.github/vhdl-logo.svg" title="VHDL"  alt="VHDL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/danielfrees/medium-publishing/blob/master/img_hdfs/Hadoop_logo_new.svg" title="hadoop"  alt="hadoop" width="40" height="40"/>&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg" title="spark"  alt="spark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Spark.svg" title="spark"  alt="spark" width="40" height="40"/>&nbsp;
 
   
 </div>
