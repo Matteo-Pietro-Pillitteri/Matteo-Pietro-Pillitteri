@@ -55,7 +55,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://handwiki.org/wiki/images/8/8d/Keil_logo.svg" title="keil"  alt="keil" width="40" height="40"/>&nbsp;
-
+ <img src="https://logodix.com/logos/541959" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+  
 </div>
 
 
